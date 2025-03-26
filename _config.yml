@@ -79,15 +79,6 @@ content:
         title: 목재정보서비스
         link: https://winz.forest.go.kr
         link_text: 목재정보서비스
-        additional_links:
-#          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#            icon: fab fa-github
- #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
-   #         icon: fab fa-github
-   #         url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#        quote: >
-#          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
             **프로젝트 참여기간**  
             - 구축사업 2차 2023.01.01 ~ 2023.11.21
