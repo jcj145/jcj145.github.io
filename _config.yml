@@ -49,7 +49,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/증명사진.jpg)
+about_profile_image: images/증명사진.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -76,10 +76,10 @@ content:
   #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
    #         icon: fab fa-github
    #         url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+#        quote: >
+#          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+            이 프로젝트는 산림청의 목재자원 관리 시스템을 구축하는 프로젝트로, 국산 목재의 벌채 단계부터 가공 및 유통 과정까지의 이력을 체계적으로 관리합니다. 또한, 국산목재 이력증명서를 발급하며, 목재와 관련된 다양한 인증을 신청하고 처리할 수 있는 플랫폼을 제공합니다.
   - title: Experience
     layout: list
     content:
