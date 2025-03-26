@@ -114,7 +114,9 @@ content:
             - 공무원 IP접근 제어 및 공인인증서 로그인 기능 개발
             - SMS발송 공통기능 개발
             - 첨부파일관리 공통기능 개발
-
+           - layout: left
+             border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                           # other value (or no value) means no border will be displayed
              title: 목재자원관리시스템
              description: | # this will include new lines to allow paragraphs
                  **프로젝트 참여기간**  
