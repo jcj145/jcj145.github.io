@@ -116,6 +116,36 @@ content:
             - 첨부파일관리 공통기능 개발
 
 
+            - title: Projects # Title for the section
+              layout: list # Type of content section (list/text)
+             content:
+                - layout: left
+                 border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                                # other value (or no value) means no border will be displayed
+                  title: 목재자원관리시스템
+          #        link: https://winz.forest.go.kr
+          #        link_text: 목재정보서비스
+                  additional_links:
+          #          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #            icon: fab fa-github
+           #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
+             #         icon: fab fa-github
+             #         url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #        quote: >
+          #          Short overview of the project (optional)
+                  description: | # this will include new lines to allow paragraphs
+                      **프로젝트 참여기간**  
+                      - 목재자원관리시스템 운영 및 유지보수 2023.01 ~ 2024.12
+                      
+                      **사용된 기술**
+                      - eGovFramework3.10 (전자정부프레임워크)
+                      - Spring Security
+                      - Java
+                      - Mybatis
+                      - JSP, JavaScript, jQuery, CSS
+                      - DBMS (Tibero, Oracle)
+                      - SVN
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
