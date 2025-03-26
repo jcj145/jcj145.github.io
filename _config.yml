@@ -116,7 +116,7 @@ content:
             - 첨부파일관리 공통기능 개발
 
 #  - title: Projects # Title for the section
-#    layout: list # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
