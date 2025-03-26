@@ -52,15 +52,14 @@ additional_links:
 about_profile_image: images/증명사진.jpg
 about_content: | # this will include new lines to allow paragraphs
   **최종학력**
-  경남정보대학교 (2,3년제)
-  ICT컴퓨터계열
-  학점  3.9
-  - C, C#, Java, HTML, JavaScript, Linux 등 교육 받았음
-  - 졸업과제로 IOT 아두이노를 활용한 자동선풍기 제작
+  - 경남정보대학교 (2,3년제)
+  - ICT컴퓨터계열
+  - 최종학점 3.9
+  - C, C#, Java, HTML, JavaScript, Linux, MySql 등 교육받음 
 
   **경력**
-  (주)에코누리시스템 에서 2022.11 ~ 2024.12 (총 근무기간 2년 2개월) 근무
-  연구개발팀 사원으로 SI/SM 업무 진행
+  - (주)에코누리시스템 에서 2년 2개월(2022.11 ~ 2024.12) 근무
+  - 연구개발팀 사원으로 SI/SM 업무 진행
 
   **나의 스킬**
   - Java
@@ -116,8 +115,8 @@ content:
             - SMS발송 공통기능 개발
             - 첨부파일관리 공통기능 개발
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+#  - title: Projects # Title for the section
+#    layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
