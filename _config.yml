@@ -11,7 +11,7 @@ title: 공공기관 프로젝트 경험을 바탕으로 성장하는 개발자
 email: jcj145@naver.com
 # email_title: Email (Email title override)
 phone: 010-6262-4318
-# phone_title: Phone (Phone title override)
+address: 서울특별시 중랑구 중화동
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -51,13 +51,24 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/증명사진.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  **최종학력**
+  경남정보대학교 (2,3년제)
+  ICT컴퓨터계열
+  학점  3.9
+  - C, C#, Java, HTML, JavaScript, Linux 등 교육 받았음
+  - 졸업과제로 IOT 아두이노를 활용한 자동선풍기 제작
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  **경력**
+  (주)에코누리시스템 에서 2022.11 ~ 2024.12 (총 근무기간 2년 2개월) 근무
+  연구개발팀 사원으로 SI/SM 업무 진행
+
+  **나의 스킬**
+  - Java
+  - Spring Framework, eGovFrameWork
+  - JSP, JavaScript, HTML5, Ajax, CSS3
+  - Mysql, Oracle, PostgreSql, Tibero, Cubrid
+  - SVN, GitLab
+  - Linux
 
 content:
   - title: Projects # Title for the section
@@ -93,6 +104,7 @@ content:
             - DBMS (Postgresql, Tibero, Cubrid, Oracle)
             - Daum주소 API, 카카오맵 API, 간편인증 API
             - Linux, Jboss, Apache Tomcat 9.0
+            - SVN, GibLab
             
             **기능 개발 담당 파트**
             - 국산목재의 탄소저장량 표시제도, 신기술 신청 및 증명서 발급 프로세스 개발
@@ -133,6 +145,7 @@ content:
             - Mybatis
             - JSP, JavaScript, jQuery, CSS
             - DBMS (Tibero, Oracle)
+            - SVN
 
   #- title: Experience
    # layout: list
